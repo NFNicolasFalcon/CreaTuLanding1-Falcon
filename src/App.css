@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  background-color: #194448;
+  color: white;
+}
+
+.navbar nav button {
+  margin: 0 10px;
+  padding: 10px 15px;
+  background-color:#00667E;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.navbar .cart {
+  font-size: 20px;
+}
+
+.welcome {
+  padding: 20px;
+  text-align: center;
+  background-color:#007B8A;
+  
+}
+
+
+.styled-button {
+  margin: 0 10px;
+  padding: 10px 15px;
+  background-color: #555;
+  color: white;
+  border: none;
+  border-radius: 20px; 
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+

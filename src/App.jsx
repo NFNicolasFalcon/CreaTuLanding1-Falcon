@@ -1,6 +1,6 @@
 import './App.css'; 
-import Navbar from './Navbar'; 
-import WelcomeSection from './WelcomeSection'; 
+import Navbar from './assets/components/NavbarComp'; 
+import WelcomeSection from './assets/components/WelcomeSectionComp'; 
 
 const App = () => {
   return (
